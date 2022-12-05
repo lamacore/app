@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "App\\": "app"
+        }
+    },
+    "require": {
+        "lamacore/framework": "^0.0.8"
+    }
+}
